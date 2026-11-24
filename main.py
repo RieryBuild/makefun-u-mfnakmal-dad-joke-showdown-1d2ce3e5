@@ -1,12 +1,12 @@
 """Dad Joke Showdown entry: writes one original dad joke to entry.txt.
 
 Stdlib only. The joke is a single fixed string: deterministic by
-construction, 104 characters, well inside the 1-200 gate.
+construction, 105 characters, well inside the 1-200 gate.
 """
 
 import os
 
-JOKE = "My daughter asked why I butter my toast on both sides. I said, 'So no matter how it lands, I'm covered.'"
+JOKE = "My daughter asked why our dinner table wobbles. I said, 'Four legs, and it still can't stand on its own.'"
 
 
 def main():
